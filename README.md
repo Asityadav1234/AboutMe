@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Hemang</h1>
-<h3 align="center">A third year student in IIIT-B who is enthusiastic about new technologies</h3>
+<h1 align="center">Hi 👋, I'm Asit</h1>
+<h3 align="center">A second year student in NIT-Jaipur who is enthusiastic about new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemang-2004&label=Profile%20views&color=0e75b6&style=flat" alt="hemang-2004" /> </p>
 
